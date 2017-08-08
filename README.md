@@ -10,11 +10,11 @@ In this competition, Daimler is challenging Kagglers to tackle the curse of dime
 Main.ipynb - ipython notebook containing code and results  
 train.csv - the training set  
 test.csv - the test set, you must predict the 'y' variable for the 'ID's in this file  
-predictions.csv - a sample submission file in the correct format  
+predictions.csv - a submission file in the correct format  
 
 # Data fields
 This dataset contains an anonymized set of variables, each representing a custom feature in a Mercedes car. For example, a variable could be 4WD, added air suspension, or a head-up display.
 Variables can be categorical or binary values. Label ‘y’ represents the time (in seconds) that the car took to pass testing for each combination of variables.  
 
 # More info
-https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo
+https://www.kaggle.com/c/mercedes-benz-greener-manufacturing
